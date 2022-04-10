@@ -5,7 +5,10 @@ const Login = () => {
     return (
         <div className='login'>
            <h2>Log In !!</h2>
-           <button>Sign In Google</button>
+
+            <div style={{margin: '20px'}}>
+                <button>Sign In Google</button>
+            </div>
             <form action="">
                 <input type="email" name="" placeholder='email' id="" />
                 <br />
