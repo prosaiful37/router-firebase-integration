@@ -1,0 +1,19 @@
+.header{
+    margin-top: 20px;
+}
+.header nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: saddlebrown;
+    font-size: 20px;
+    padding: 7px;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+nav a:hover{
+    color: darkgoldenrod;
+    background-color: black;
+}
+nav a:active{
+    background-color: aqua;
+}
